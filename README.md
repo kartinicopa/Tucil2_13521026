@@ -1,6 +1,8 @@
 # Tugas Kecil II IF 2211 Strategi Algoritma
 > Finding the Closest Pair of Points in R^n dimension using the Divide and Conquer Algorithm
-> Kartini Copa - 13521026
+
+## Author 
+Kartini Copa - 13521026
 
 ## Table of Contents
 * [Description](#description)
@@ -8,7 +10,7 @@
 * [Installation](#installation)
 * [Setup](#setup)
 * [Structure](#structure)
-* [Plotting](#plotting)
+
 
 ## Description
 Finding the closest pair of points in Rn dimension is a classic problem in computational geometry. One approach to solving this problem is using the divide and conquer algorithm. This algorithm has a time complexity of O(n log (n)), which is faster than the brute force algorithm that has a time complexity of O(n^2).
@@ -17,14 +19,9 @@ The divide and conquer algorithm works by dividing the set of points into two ha
 <p align="center">
 <img width="513" alt="image" src="https://user-images.githubusercontent.com/102657926/221998685-233561ad-0134-42d5-bb16-f2470736a791.png">
 </p>
-
-
-## Plotting
-# 3D
 <p align="center">
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/102657926/221995218-bc1792ab-2047-452a-ae73-e830a10fcf43.png">
 </p>
-# 2D
 <p align="center">
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/102657926/221995245-a359fa4b-e90b-4532-96d8-db74587037a5.png">
 </p>
