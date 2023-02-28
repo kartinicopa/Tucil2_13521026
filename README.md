@@ -9,8 +9,6 @@ Kartini Copa - 13521026
 * [Feature](#feature)
 * [Installation](#installation)
 * [Setup](#setup)
-* [Structure](#structure)
-
 
 ## Description
 Finding the closest pair of points in Rn dimension is a classic problem in computational geometry. One approach to solving this problem is using the divide and conquer algorithm. This algorithm has a time complexity of O(n log (n)), which is faster than the brute force algorithm that has a time complexity of O(n^2).
