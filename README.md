@@ -21,8 +21,7 @@ The divide and conquer algorithm works by dividing the set of points into two ha
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/102657926/221995218-bc1792ab-2047-452a-ae73-e830a10fcf43.png">
 </p>
 <p align="center">
-<img width="289" alt="image" src="https://user-images.githubusercontent.com/102657926/221995245-a359fa4b-e90b-4532-96d8-db74587037a5.png">
-</p>
+<img width="289" alt="image" src="https://user-images.githubusercontent.com/102657926/222000758-10641861-8b3a-4e93-876a-651789d3b6db.png"></p>
 
 
 ## Feature
