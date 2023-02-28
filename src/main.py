@@ -55,10 +55,10 @@ def print_divide_conquer(points):
 
 if __name__ == '__main__':
     splash_screen()
-    n = int(input("Masukkan jumlah titik: "))
+    n = int(input("Enter the number of points: "))
     while n < 2:
-        n = int(input("Masukkan jumlah titik: "))
-    Rn = int(input("Masukkan dimensi ruang: "))
+        n = int(input("Enter the number of points: "))
+    Rn = int(input("Enter the number of dimensions: "))
     points = generate_points(n, Rn)
     
     print_brute_force(points)
@@ -83,5 +83,5 @@ if __name__ == '__main__':
         ax = fig.add_subplot(projection='3d')
         ax.scatter(x, y, z, c=colors)
     else:
-        print("Plotting hanya dapat dilakukan pada ruang 2D atau 3D")
+        print("Plotting can only be done in 2D or 3D space.")
     plt.show()
